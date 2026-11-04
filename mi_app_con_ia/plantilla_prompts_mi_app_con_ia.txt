@@ -1,0 +1,67 @@
+PLANTILLA DE PROMPTS - PROYECTO "MI APP CON IA"
+3ro de Secundaria - Colegio Ganímedes - Computación / Robótica
+
+INSTRUCCIONES: Cambien todo lo que está entre [CORCHETES] y borren los corchetes.
+
+==================================================
+PLANTILLA 1: PROMPT PARA CREAR LA PRESENTACIÓN
+==================================================
+
+Crea una presentación de 7 diapositivas para estudiantes de 3ro de secundaria del Colegio Ganímedes (curso de Computación/Robótica, proyecto "Mi App con IA"). La exposición durará mínimo 5 minutos y la presentarán todos los integrantes del grupo.
+
+Estilo: [TEMÁTICA O ESTILO, ej.: navideño, deportivo, moderno, divertido], con los colores [COLOR 1], [COLOR 2] y [COLOR 3]. Usa poco texto, letra grande e íconos sencillos.
+
+App: "[NOMBRE DE LA APP]". Es una app que [QUÉ HACE LA APP EN UNA FRASE].
+
+Diapositiva 1 – Portada:
+- Título: [NOMBRE DE LA APP]
+- Frase corta o eslogan: "[ESLOGAN DE LA APP]"
+- Ícono o logo: [DESCRIBE EL LOGO, ej.: una estrella con un lápiz]
+- Integrantes: [NOMBRE 1], [NOMBRE 2], [NOMBRE 3], [NOMBRE 4] – 3ro de Secundaria
+
+Diapositiva 2 – El problema:
+- Problema: "[DESCRIBE EL PROBLEMA EN 1 O 2 FRASES]"
+- Dónde pasa: [EN EL COLEGIO / EN LA CASA / EN EL BARRIO / OTRO]
+
+Diapositiva 3 – Los usuarios:
+- Quiénes la usarán: [ESTUDIANTES / PAPÁS / PROFESORES / VENDEDORES / OTROS]
+- Edad: [RANGO DE EDAD, ej.: 10 a 16 años]
+- Desde dónde la usarán: [CELULAR / COMPUTADORA / AMBOS]
+- Por qué les ayudaría: [EXPLICA EN UNA FRASE]
+
+Diapositiva 4 – Tres funciones:
+1) [VERBO + FUNCIÓN 1, ej.: Mostrar un consejo diario]
+2) [VERBO + FUNCIÓN 2, ej.: Anotar tareas]
+3) [VERBO + FUNCIÓN 3, ej.: Ver mi avance]
+
+Diapositiva 5 – Boceto:
+- Diseña la pantalla principal de una app de celular con: el título "[NOMBRE DE LA APP]" arriba, [ELEMENTO 1, ej.: una caja de consejo], [ELEMENTO 2, ej.: una lista de tareas] y un botón "[TEXTO DEL BOTÓN PRINCIPAL]".
+- Agrega flechas que expliquen qué hace cada botón.
+
+Diapositiva 6 – Prompt inicial:
+- Muestra en un recuadro el prompt que usaremos en Gemini para crear la app.
+
+Diapositiva 7 – Cierre:
+- Frase final: "[POR QUÉ SU APP ES ÚTIL EN UNA FRASE]"
+- "¡Gracias! ¿Preguntas?"
+
+
+==================================================
+PLANTILLA 2: PROMPT INICIAL PARA GEMINI (va en la diapositiva 6)
+==================================================
+
+Crea una app web llamada "[NOMBRE DE LA APP]" para [QUIÉNES LA USARÁN] de [EDAD] años, que [QUÉ HACE LA APP EN UNA FRASE]. Debe permitir:
+1) [FUNCIÓN 1]
+2) [FUNCIÓN 2]
+3) [FUNCIÓN 3]
+Usa los colores [COLOR 1], [COLOR 2] y [COLOR 3], letra grande, botones grandes y un diseño que funcione bien en [CELULAR / COMPUTADORA]. Todo el texto debe estar en español.
+
+
+==================================================
+RECOMENDACIONES
+==================================================
+
+- Las 3 funciones deben ser las mismas en la diapositiva 4 y en el prompt de la diapositiva 6.
+- Cada función empieza con un verbo: anotar, mostrar, buscar, calcular, marcar...
+- Antes de pegar el prompt, revisen que no quede ningún corchete.
+- 5 minutos a más, hablan todos, poco texto con letra grande y miren al público.
