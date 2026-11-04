@@ -1,0 +1,36 @@
+Crea una presentación de 7 diapositivas para estudiantes de 3ro de secundaria del Colegio Ganímedes (curso de Computación/Robótica, proyecto "Mi App con IA"). La exposición debe durar mínimo 5 minutos y la presentarán todos los integrantes del grupo.
+
+Estilo: temática navideña andina, con colores rojo, verde, dorado y blanco. Usa poco texto, letra grande e íconos sencillos (estrella, árbol, regalo, cuaderno, lápiz).
+
+App: "Yachay Navideño" (Yachay significa "aprender" en quechua). Es una app que inspira a los estudiantes a hacer sus trabajos escolares con pequeños consejos motivadores de temática navideña.
+
+Diapositiva 1 – Portada:
+- Título: Yachay Navideño
+- Eslogan: "Cada tarea es un regalo para tu futuro"
+- Ícono: una estrella navideña con un lápiz
+- Integrantes: [Nombre 1], [Nombre 2], [Nombre 3], [Nombre 4] – 3ro de Secundaria
+
+Diapositiva 2 – El problema:
+- "Muchos estudiantes dejan sus tareas para último momento por falta de motivación o porque no saben por dónde empezar."
+- Dónde pasa: en casa y en el colegio, sobre todo en diciembre con fiestas y fin de año.
+
+Diapositiva 3 – Los usuarios:
+- Estudiantes de primaria y secundaria (10 a 16 años).
+- La usarán desde el celular o la computadora.
+- Les ayuda a organizarse, motivarse y terminar sus trabajos a tiempo.
+
+Diapositiva 4 – Tres funciones:
+1) Mostrar un consejo navideño diario para estudiar mejor ("Como Papá Noel, haz una lista de tus tareas").
+2) Anotar tareas y marcarlas como hechas, ganando una estrella por cada una.
+3) Decorar un árbol de Navidad virtual que se llena con las estrellas ganadas.
+
+Diapositiva 5 – Boceto:
+- Diseña una pantalla principal de app de celular con: título "Yachay Navideño" arriba, una caja con el "Consejo del día", la lista de tareas con casillas, un árbol de Navidad con estrellas y un botón "+ Agregar tarea".
+- Agrega flechas que expliquen qué hace cada botón.
+
+Diapositiva 6 – Prompt inicial:
+- Muestra en un recuadro el texto que usaremos en Gemini para crear la app (ver abajo).
+
+Diapositiva 7 – Cierre:
+- Frase: "Yachay Navideño convierte las tareas en una aventura navideña: aprender también puede ser un regalo."
+- "¡Gracias! ¿Preguntas?"
