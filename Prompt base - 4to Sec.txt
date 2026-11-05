@@ -1,0 +1,20 @@
+PROMPT BASE 1: LA PROPUESTA (cambia lo que está entre [ ])
+
+Ayúdame a preparar la propuesta de una app para exponerla en clase.
+Idea de nuestra app: [describe la idea en una frase]
+Problema que resuelve: [qué problema hay]
+Usuarios: [quiénes la usarán]
+Somos estudiantes de 4to de secundaria y vamos a exponer 5 minutos.
+Dame el contenido de 7 diapositivas:
+1. Portada: 3 opciones de nombre corto para la app.
+2. El problema: explicado en 2 frases.
+3. Los usuarios: quiénes son y por qué les ayuda.
+4. Tres funciones: cada una empieza con un verbo.
+5. Boceto: describe la pantalla principal (qué va arriba, qué botones hay y qué colores), con poco texto y botones grandes.
+6. Prompt inicial: escribe el prompt que usaríamos en Gemini Canvas para crear la primera versión de la app.
+7. Cierre: una frase sobre por qué la app es útil.
+Para cada diapositiva dame un título, 3 ideas cortas y lo que debemos decir al exponer.
+
+PROMPT BASE 2: EL BOCETO (en Gemini › Canvas)
+
+Crea solo la pantalla principal de una app llamada [NOMBRE] para [USUARIOS]. Debe tener: [FUNCIÓN 1], [FUNCIÓN 2] y [FUNCIÓN 3]. Título arriba, botones grandes con texto claro, 2 o 3 colores y poco texto. Es un boceto para una exposición: no hace falta que funcione todo.
